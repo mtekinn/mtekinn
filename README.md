@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ## 🔗 Let's Connect!
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/tekiinm)
+<a href="https://twitter.com/tekiinm" target="_blank"><img alt="Twitter" src="https://badgen.net/badge/icon/twitter?icon=twitter&label)/></a>
 

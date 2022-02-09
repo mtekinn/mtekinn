@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 ## 🔗 Let's Connect!
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/tekiinm)
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@tekinmdev)
 

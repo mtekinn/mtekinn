@@ -1,7 +1,7 @@
 ### Hello, 👋
 
 ## About Me
-Greetings! I'm Muhammet Tekin, a passionate individual exploring the world of iOS development. My journey in computer engineering has ignited a curiosity for crafting solutions that enhance user experiences. I thrive on the challenges that come with app development, constantly seeking opportunities to learn and innovate.
+Greetings! I'm Mehmet Tekin, a passionate individual exploring the world of iOS development. My journey in computer engineering has ignited a curiosity for crafting solutions that enhance user experiences. I thrive on the challenges that come with app development, constantly seeking opportunities to learn and innovate.
 
 ## Skills
 - **iOS Development:** UIKit, SwiftUI, Core Data

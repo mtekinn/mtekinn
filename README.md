@@ -2,7 +2,7 @@
 
 Backend developer focused on Java and Spring Boot. I build RESTful APIs and enjoy solving real problems with clean code.
 
-Currently open to **junior backend developer** opportunities.
+Currently open to **backend developer** opportunities.
 
 ---
 

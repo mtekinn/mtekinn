@@ -8,22 +8,23 @@ Currently open to **backend developer** opportunities.
 
 ## 🛠 Tech Stack
 
-**Backend**
+**Backend**  
 Java · Spring Boot · Spring Security · JWT Authentication · REST API
 
-**Database**
-PostgreSQL · JPA · Hibernate
+**Database**  
+PostgreSQL · Redis · JPA · Hibernate
 
-**Tools**
-Docker · Git · Maven · IntelliJ IDEA
+**Tools**  
+Docker · Docker Compose · Git · Maven · GitHub Actions · IntelliJ IDEA
 
 ---
 
 ## 🚀 Projects
 
 ### [HireLog](https://github.com/mtekinn/hirelog)
-Job application tracker API. Track your applications, update statuses, get reply rate statistics.
-`Spring Boot` `JWT` `PostgreSQL` `Docker`
+Job application tracker REST API. Redis caching, rate limiting, JWT authentication, deployed on Railway.  
+🔗 [Live API](https://hirelog-production.up.railway.app/health) · [Swagger UI](https://hirelog-production.up.railway.app/swagger-ui/index.html)  
+`Spring Boot` `JWT` `PostgreSQL` `Redis` `Docker` `Railway`
 
 ### [FinTrack](https://github.com/mtekinn/fintrack)
 Personal finance tracker API. Track income and expenses, get monthly summaries.
